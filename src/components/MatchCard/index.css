@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.recent-matches-card{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    width:30vw;
+    margin:10px;
+}
+.logo{
+    height:10vh;
+}

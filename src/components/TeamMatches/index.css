@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.team-matches {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  width: 100vw;
+  background-size: cover;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.banner {
+  height: 20vh;
+  background-size: cover;
+}
+.recent-matches-container{
+  display:flex;
+  flex-wrap:wrap;
+}
